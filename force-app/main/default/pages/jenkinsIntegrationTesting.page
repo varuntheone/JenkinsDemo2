@@ -1,6 +1,6 @@
 <apex:page>
 <!-- Begin Default Content REMOVE THIS -->
 <h1>Congratulations</h1>
-<h2>This is from Jenkins 1</h2>
+<h2>This is from Jenkins 2</h2>
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
